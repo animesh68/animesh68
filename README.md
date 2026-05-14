@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.makeagif.com/media/3-05-2020/_RfZfP.gif" width="100%" alt="Welcome GIF"/>
+  <img src="_RfZfP.gif" width="100%" alt="Zura Welcome GIF"/>
 </p>
 
 ## Connect With Me
