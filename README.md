@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="_RfZfP.gif" width="60%" alt="Zura Welcome GIF"/>
+  <img src="4eace4490b1336d085f53eb2da9cba13.gif" width="60%" alt="Roy Mustang"/>
 </p>
 
 ## Connect With Me
