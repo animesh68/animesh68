@@ -1,7 +1,5 @@
 <p align="center">
-  <video autoplay loop muted playsinline width="60%">
-    <source src="ezgif-4377ee35738de4cd.mp4" type="video/mp4">
-  </video>
+  <img src="4eace4490b1336d085f53eb2da9cba13.gif" width="60%" alt="Roy Mustang"/>
 </p>
 
 ## Connect With Me
