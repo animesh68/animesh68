@@ -2,10 +2,16 @@
   <img src="4eace4490b1336d085f53eb2da9cba13.gif" width="50%" alt="Roy Mustang"/>
 </p>
 
+<p align="center">
+  <strong>Hey, I'm Animesh.</strong><br>
+  I build things, break things, mostly break.
+  Currently Larping DSA.
+</p>
+
 ## Currently Listening
 
 <p align="center">
-  🎧 <a href="https://open.spotify.com/track/3yxOH65DHQIsLfqndcCqZ7">
+  🎧 <a href="https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW">
     <strong>Slow Dancing in the Dark — Joji</strong>
   </a>
 </p>
@@ -16,7 +22,7 @@
   <a href="https://www.linkedin.com/in/animesh-srivastava-52856a329/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/Animesh4lyfe">
+  <a href="https://x.com/Anikin42">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="mailto:animeshyt68@gmail.com">
