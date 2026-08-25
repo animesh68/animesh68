@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="4eace4490b1336d085f53eb2da9cba13.gif" width="60%" alt="Roy Mustang"/>
+  <img src="4eace4490b1336d085f53eb2da9cba13.gif" width="50%" alt="Roy Mustang"/>
+</p>
+
+## Currently Listening
+
+<p align="center">
+  🎧 <a href="https://open.spotify.com/track/3yxOH65DHQIsLfqndcCqZ7">
+    <strong>Slow Dancing in the Dark — Joji</strong>
+  </a>
 </p>
 
 ## Connect With Me
