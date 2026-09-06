@@ -4,14 +4,13 @@
 
 <p align="center">
   <strong>Hello there!! I'm Animesh.</strong><br>
-  Currently Larping DSA.
 </p>
 
 ## What I'm Up To
 
-- Just Getting by.
-- Learning system design & backend architecture I Suppose!
-- and ghouls and magnets 
+- Rust.
+- Studying more about system design.
+- Learning the ways of the Jedi. 
 
 ## Currently Listening
 
