@@ -3,14 +3,13 @@
 </p>
 
 <p align="center">
-  <strong>Hey, I'm Animesh.</strong><br>
-  I build things, break things, mostly break.<br>
+  <strong>Hello there!! I'm Animesh.</strong><br>
   Currently Larping DSA.
 </p>
 
 ## What I'm Up To
 
-- Building projects I Suppose!
+- Just Getting by.
 - Learning system design & backend architecture I Suppose!
 - and ghouls and magnets 
 
