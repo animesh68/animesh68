@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="4eace4490b1336d085f53eb2da9cba13.gif" width="50%" alt="Roy Mustang"/>
-</p> -->
+<p align="center">
+  <img src="wake_up_cowboy_captioned.gif" width="50%" alt="Roy Mustang"/>
+</p>
 
 <p align="center">
   <strong>Hello there!! I'm Animesh.</strong><br>
